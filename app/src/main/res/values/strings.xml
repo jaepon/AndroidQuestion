@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">安卓复习手册</string>
+    <string name="btn_true">正确</string>
+    <string name="btn_false">错误</string>
+    <string name="btn_next">下一题</string>
+    <string name="btn_show">查看答案</string>
+    <string name="btn_next_reset">重新复习</string>
+    <string name="toast_answer">您已查看答案</string>
+    <string name="btn_connection">联系开发者</string>
+</resources>
