@@ -96,6 +96,8 @@ public class AnswerActivity extends AppCompatActivity {
         set.playTogether(moneyAnimator,colorAnimator);
         set.setDuration(1000); // 设置动画时间
         set.start(); // 开始动画
+
+        // test
     }
 
     @Override
